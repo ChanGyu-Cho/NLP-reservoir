@@ -5,6 +5,7 @@ kaggle 분석에서 BERT 모델보다 높은 점수 받음
 Final version_NLP_reservoirPy 이 최종본
 
 
+
 Application to Korean NLP analysis using reservoirPy(ESN)
 
 Higher score than BERT model in Kaggle analysis
